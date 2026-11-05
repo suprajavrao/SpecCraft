@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+python-docx
+pytesseract
+pillow
+numpy
+pandas
+reportlab
+opencv-python-headless
